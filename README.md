@@ -1,6 +1,8 @@
 # Donut
 An ASCII drawn spinning donut that can be run either in the terminal or in your browser. Terminal code is written in C, browser code is written in JS using the python http.server library. 
 
+![donut gif](./donut.gif)
+
 ## Notation
 Shorthand notation for the files are:
 - cmpct = compacted versions of the code that is written in the shape of a donut
